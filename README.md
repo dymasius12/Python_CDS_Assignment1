@@ -23,12 +23,6 @@ PLEASE NOTE: it needs 1 command after the filename!
 Run it in jupyter notebook
 ```
 
-or
-
-```
-Run it in jupyter notebook
-```
-
 ### More references:
 
 Nothing
